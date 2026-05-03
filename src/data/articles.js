@@ -81,7 +81,7 @@ export const articles = [
 
     <p>這份排程，就是這樣產生的。每個模組分開列，標記 Wireframe 和 UI 的時間區間，並且插入幾個固定的會議節點，作為確認進度的檢查點。</p>
 
-    <img src="/portfolio/images/articles/equal-treatment-trap/img-1.png" alt="為設計師重新規劃的 Design Schedule，包含 Wireframe 與 UI 兩個階段" />
+    <img src="/portfolio_v1/images/articles/equal-treatment-trap/img-1.png" alt="為設計師重新規劃的 Design Schedule，包含 Wireframe 與 UI 兩個階段" />
 
     <h2>她開始不一樣了</h2>
 
@@ -147,7 +147,7 @@ export const articles = [
 
     <p>我把方案整理成一份提案簡報，主動找大主管報告。他的第一句話是：「這是我進來這間公司後，一直想做但一直沒空做的事。」<strong>那一刻，我知道方向對了。</strong></p>
 
-    <img src="/portfolio/images/articles/design-team-okr-performance-system/img-1.png" alt="在不影響公司績效規範的前提下，讓每月的 OKR 能夠回應每半年的 KPI" />
+    <img src="/portfolio_v1/images/articles/design-team-okr-performance-system/img-1.png" alt="在不影響公司績效規範的前提下，讓每月的 OKR 能夠回應每半年的 KPI" />
 
     <h2>設計一套真正適合設計師的行為指標</h2>
 
@@ -164,7 +164,7 @@ export const articles = [
       </div>
     </div>
 
-    <img src="/portfolio/images/articles/design-team-okr-performance-system/img-2.png" alt="公司 KPI 指標對應設計團隊 OKR" />
+    <img src="/portfolio_v1/images/articles/design-team-okr-performance-system/img-2.png" alt="公司 KPI 指標對應設計團隊 OKR" />
 
     <p><strong>最頭痛的部分，是「設計品質與細節」以及「充分考慮使用者體驗」的行為指標要怎麼設定。</strong>我們的設計師會接到的任務類型差異極大，平面設計、Landing Page、介面設計、網頁切版、識別設計，每種任務的驗收邏輯完全不同。</p>
 
@@ -196,7 +196,7 @@ export const articles = [
 
     <p>更重要的是，<strong>有了明確的行為指標，每個人都用相同的標準被評量，沒有不公平、沒有黑箱，只有實力與努力。</strong>他們告訴我，這樣的運作方式讓他們更願意為公司、為團隊、也為自己的成長而賣力。</p>
 
-    <img src="/portfolio/images/articles/design-team-okr-performance-system/img-3.png" alt="運用 Google Calendar 將專案時程視覺化" />
+    <img src="/portfolio_v1/images/articles/design-team-okr-performance-system/img-3.png" alt="運用 Google Calendar 將專案時程視覺化" />
 
     <h2>跑了一年，我學到的事</h2>
 
@@ -263,7 +263,7 @@ export const articles = [
 
     <p>大家一開始都愣住了，她們覺得好精緻、好有儀式感，信封都還沒拆，大家就紛紛拿出手機拍照，然後我們拍了一張合照，紀念這個時刻。</p>
 
-    <img src="/portfolio/images/articles/team-feedback-letter/img-1.png" alt="設計團隊收到信封的合照" />
+    <img src="/portfolio_v1/images/articles/team-feedback-letter/img-1.png" alt="設計團隊收到信封的合照" />
 
     <h2>那封信，也有一封是寫給我的</h2>
 
@@ -355,15 +355,15 @@ export const articles = [
 
     <p>我花了一段時間，把設計部對需求方的期待，整理成一份<strong>《設計需求提交合作指南》</strong>。</p>
 
-    <img src="/portfolio/images/articles/design-request-collaboration-guide/img-1.png" alt="設計需求提交合作指南" />
+    <img src="/portfolio_v1/images/articles/design-request-collaboration-guide/img-1.png" alt="設計需求提交合作指南" />
 
     <p>裡面包含幾個核心內容：<strong>需求提交的完整流程</strong>（從開 Jira 工單、到設計執行、到發稿結案）、<strong>各項設計的基本工時</strong>（讓大家在發需求前先考量時程，降低急件頻率）、以及一份詳細的<strong>「發需求注意事項」</strong>，說明設計需求應包含哪些資訊，需求背景、設計尺寸、期待風格、最終文案、圖片素材、期待交期，缺一不可，並用真實案例說明「這樣做」和「那樣做」的差別。</p>
 
     <p>為了讓大家更有感，我在指南裡放了兩個真實案例的截圖對比：一個是需求方用手繪稿標注文案位置與風格期待的小卡需求，另一個是用 Google Slide 拆頁標注的 DM 需求。有了這些範本，「怎樣算是給清楚了」就不再是抽象的要求。</p>
 
-    <img src="/portfolio/images/articles/design-request-collaboration-guide/img-2.png" alt="設計需求提交優良範例 - 小卡" />
+    <img src="/portfolio_v1/images/articles/design-request-collaboration-guide/img-2.png" alt="設計需求提交優良範例 - 小卡" />
 
-    <img src="/portfolio/images/articles/design-request-collaboration-guide/img-3.png" alt="設計需求提交優良範例 - DM" />
+    <img src="/portfolio_v1/images/articles/design-request-collaboration-guide/img-3.png" alt="設計需求提交優良範例 - DM" />
 
     <p>指南用 Canva 製作，輸出成 PDF，上傳到公司的 NAS 雲端公槽，在主管會議上正式發布。各單位主管的反應都是正面的，總經理室也表示支持。</p>
 
@@ -435,7 +435,7 @@ export const articles = [
 
     <p>我給它取了一個名字：<strong>《UIUX 設計師職涯發展階梯》</strong>。</p>
 
-    <img src="/portfolio/images/articles/uiux-designer-competency-map/img-1.png" alt="UIUX 設計師職涯發展階梯" />
+    <img src="/portfolio_v1/images/articles/uiux-designer-competency-map/img-1.png" alt="UIUX 設計師職涯發展階梯" />
 
     <h2>做出這份東西，比我想像的難很多</h2>
 
@@ -470,7 +470,7 @@ export const articles = [
 
     <p>有人說：「原來我已經到這個程度了，比我以為的還要高。」有人說：「這一欄我還差得遠，但至少現在知道要補什麼了。」更多人說，<strong>這份東西很大程度地幫助他們釐清了職涯方向，讓迷茫有了一個具體的出口。</strong></p>
 
-    <p>後來，我也把這份職能模型整合進 <strong><a href="https://mudi0710.github.io/portfolio/#/leadership/design-team-okr-performance-system" target="_blank">OKR</a></strong> 的 Google Sheet 中，作為「突破自我技能持續成長」這個個人成長指標的自我評核補充資料，讓每一次的績效回顧都能與職涯發展連結在一起。</p>
+    <p>後來，我也把這份職能模型整合進 <strong><a href="https://mudi0710.github.io/portfolio_v1/#/leadership/design-team-okr-performance-system" target="_blank">OKR</a></strong> 的 Google Sheet 中，作為「突破自我技能持續成長」這個個人成長指標的自我評核補充資料，讓每一次的績效回顧都能與職涯發展連結在一起。</p>
 
     <h2>那些沒有白費的歷練</h2>
 
@@ -525,7 +525,7 @@ export const articles = [
  
     <p>四個工作包，剛好對應設計部四位夥伴。但更重要的是，我打破了以往線性接力的作業方式，讓各工作同步推進：UI 設計從 2/13(四) 開始，靜態素材與切版從 2/14(五) 同時跟上，動圖製作從 2/17(一) 並行，讓設計部在 2/19(三) 前完成所有交付，把 2/20(四) 到 2/24(一) 完整留給研發部。</p>
  
-    <img src="/portfolio/images/articles/impossible-deadline-two-weeks/img-1.png" alt="金幣機制專案時程規劃甘特圖" />
+    <img src="/portfolio_v1/images/articles/impossible-deadline-two-weeks/img-1.png" alt="金幣機制專案時程規劃甘特圖" />
  
     <h2>我做了一個和平常不一樣的決定</h2>
  
@@ -570,23 +570,23 @@ export const articles = [
  
     <p>不是那份時程表，不是讓他們自己選任務，這些都是工具。<strong>真正的關鍵，是一個更早就存在的東西。</strong></p>
  
-    <img src="/portfolio/images/articles/impossible-deadline-two-weeks/img-2.png" alt="UI - 金幣機制" />
+    <img src="/portfolio_v1/images/articles/impossible-deadline-two-weeks/img-2.png" alt="UI - 金幣機制" />
 
-    <img src="/portfolio/images/articles/impossible-deadline-two-weeks/img-3.png" alt="UI - 金幣機制規則說明" />
+    <img src="/portfolio_v1/images/articles/impossible-deadline-two-weeks/img-3.png" alt="UI - 金幣機制規則說明" />
 
-    <img src="/portfolio/images/articles/impossible-deadline-two-weeks/img-4.png" alt="Lottie 動態分鏡 - 01" />
+    <img src="/portfolio_v1/images/articles/impossible-deadline-two-weeks/img-4.png" alt="Lottie 動態分鏡 - 01" />
 
-    <img src="/portfolio/images/articles/impossible-deadline-two-weeks/img-5.png" alt="Lottie 動態分鏡 - 02" />
+    <img src="/portfolio_v1/images/articles/impossible-deadline-two-weeks/img-5.png" alt="Lottie 動態分鏡 - 02" />
 
-    <img src="/portfolio/images/articles/impossible-deadline-two-weeks/img-6.png" alt="Lottie 動態分鏡 - 03" />
+    <img src="/portfolio_v1/images/articles/impossible-deadline-two-weeks/img-6.png" alt="Lottie 動態分鏡 - 03" />
 
-    <img src="/portfolio/images/articles/impossible-deadline-two-weeks/img-7.png" alt="Lottie 動態分鏡 - 04" />
+    <img src="/portfolio_v1/images/articles/impossible-deadline-two-weeks/img-7.png" alt="Lottie 動態分鏡 - 04" />
 
     <h2>種子，早就種下了</h2>
  
     <p><strong>我們設計部每兩週辦一次「設計雙週會」</strong>，時間是每個隔週週五上午 10 點到 12 點半。<strong>我們會在雙週會上分享設計新知、個人生活、職涯方向、專案回顧，偶爾也吐吐苦水，是每個人都很珍惜的時間。</strong></p>
  
-    <p>而這個會議某部分的形式，其實是我還沒當上主管時就開始推動的。當時我做完 <strong><a href="https://mudi0710.github.io/portfolio/#/projects/bd-portal-demo-report" target="_blank">Demo Report</a></strong> 專案，主動整理了一份回顧簡報，找前設計主管說我想在雙週會上分享。分享完之後，我提了一個期待：<strong>「希望大家都可以在這裡分享自己的專案歷程，讓彼此知道對方做了什麼、遇到什麼瓶頸、有什麼洞察。我們每個人背景都不一樣，有設計本科、有財金系、有心理系、有當過人資的，這樣互相學習，成長速度會更快。」</strong></p>
+    <p>而這個會議某部分的形式，其實是我還沒當上主管時就開始推動的。當時我做完 <strong><a href="https://mudi0710.github.io/portfolio_v1/#/projects/bd-portal-demo-report" target="_blank">Demo Report</a></strong> 專案，主動整理了一份回顧簡報，找前設計主管說我想在雙週會上分享。分享完之後，我提了一個期待：<strong>「希望大家都可以在這裡分享自己的專案歷程，讓彼此知道對方做了什麼、遇到什麼瓶頸、有什麼洞察。我們每個人背景都不一樣，有設計本科、有財金系、有心理系、有當過人資的，這樣互相學習，成長速度會更快。」</strong></p>
  
     <p>後來，大家真的開始這樣做了。每個專案結束，夥伴們會自動整理一份簡報來分享。</p>
  

@@ -59,9 +59,9 @@ export const projects = [
 
     <p>業務團隊長期使用 Xmind 整理學生的學習狀況——強弱科分佈、學習斷點、補強建議——但這套做法有幾個根本限制，<strong>每位業務的整理方式與視覺品質參差不齊，對家長呈現的專業感缺乏一致性；Xmind 輸出的只是一張圖，資料無法被系統收回再利用；資訊整理完後，也難以直接銜接到 BD Portal 的後續流程。</strong></p>
 
-    <img src="/portfolio/images/projects/bd-portal-demo-report/img-1.png" alt="業務用 Xmind 繪製的心智圖，並在訪談後提供給客戶" />
+    <img src="/portfolio_v1/images/projects/bd-portal-demo-report/img-1.png" alt="業務用 Xmind 繪製的心智圖，並在訪談後提供給客戶" />
 
-    <img src="/portfolio/images/projects/bd-portal-demo-report/img-2.png" alt="業務用 Xmind 繪製的心智圖，並在訪談後提供給客戶" />
+    <img src="/portfolio_v1/images/projects/bd-portal-demo-report/img-2.png" alt="業務用 Xmind 繪製的心智圖，並在訪談後提供給客戶" />
 
     <p>原始需求同時包含一個面向客戶的前台頁面，業務主管期待業務填入訪談內容後，系統自動產出一份學習適性報告，以 Landing Page 連結形式傳送給家長。</p>
 
@@ -74,7 +74,7 @@ export const projects = [
 
     <p>接到專案時，我手上的資訊極為有限，只知道「要把 Xmind 放進 BD Portal」。<strong>面對資訊真空，我用 5W1H 框架快速梳理專案輪廓</strong>：使用者是誰（業務、家長、學生）、為什麼啟動這個專案（對內整合流程、對外提升品牌專業感）、在哪些時機點會使用（電訪、Demo、試讀）、產品出現在什麼載具上（Web + 手機，需考量 RWD）。這個過程讓我在沒有 PM 主動梳理需求的情況下，迅速建立起對這個專案的基本認識。</p>
 
-    <img src="/portfolio/images/projects/bd-portal-demo-report/img-3.png" alt="我用 5W1H 框架快速梳理專案輪廓，協助我迅速建立起對這個專案的基本認識。" />
+    <img src="/portfolio_v1/images/projects/bd-portal-demo-report/img-3.png" alt="我用 5W1H 框架快速梳理專案輪廓，協助我迅速建立起對這個專案的基本認識。" />
 
     <h3>洞察二：訪談業務，發現心智圖有「生命週期」</h3>
 
@@ -97,13 +97,13 @@ export const projects = [
       </div>
     </div>
 
-    <img src="/portfolio/images/projects/bd-portal-demo-report/img-4.png" alt="業務銷售三階段示意圖：第一次接觸（電訪）、第二次接觸（Demo）、第三次接觸（試讀七天），心智圖在每個階段扮演不同角色" />
+    <img src="/portfolio_v1/images/projects/bd-portal-demo-report/img-4.png" alt="業務銷售三階段示意圖：第一次接觸（電訪）、第二次接觸（Demo）、第三次接觸（試讀七天），心智圖在每個階段扮演不同角色" />
 
     <h3>關鍵轉折：從「心智圖系統」到「陪伴整個銷售旅程的數位報告」</h3>
 
     <p>這個生命週期的發現，讓我意識到 Demo Report 不應該只是把 Xmind 搬進系統，而是<strong>應該在不同銷售階段，都能回應業務當下的需求，產生對應的商業價值。</strong>我從研究彙整表中提煉出四個直接影響後續設計的關鍵洞察：</p>
 
-    <img src="/portfolio/images/projects/bd-portal-demo-report/img-5.png" alt="研究彙整表，從業務行為、接觸目標、聯繫時間、心智圖生命週期四個維度分析三個銷售階段，並標注四個關鍵設計洞察（紅字）" />
+    <img src="/portfolio_v1/images/projects/bd-portal-demo-report/img-5.png" alt="研究彙整表，從業務行為、接觸目標、聯繫時間、心智圖生命週期四個維度分析三個銷售階段，並標注四個關鍵設計洞察（紅字）" />
 
     <div class="pd-callout">
       <div class="pd-callout__item">
@@ -125,9 +125,9 @@ export const projects = [
       </div>
     </div>
 
-    <img src="/portfolio/images/projects/bd-portal-demo-report/img-6.png" alt="前台初版手繪 Wireframe" />
+    <img src="/portfolio_v1/images/projects/bd-portal-demo-report/img-6.png" alt="前台初版手繪 Wireframe" />
 
-    <img src="/portfolio/images/projects/bd-portal-demo-report/img-7.png" alt="前台初版 Landing Page UI，一頁式設計，視覺留白過多，為後續改版提供對比" />
+    <img src="/portfolio_v1/images/projects/bd-portal-demo-report/img-7.png" alt="前台初版 Landing Page UI，一頁式設計，視覺留白過多，為後續改版提供對比" />
 
     <h3>突破：顛覆 Form 表單的邊界</h3>
 
@@ -135,15 +135,15 @@ export const projects = [
 
     <p>此外，大主管看過初版表單後，認為欄位過多、介面太冗長，希望我縮減。他們預期的解法，是把一排 2 個 input 改成 4 個，這種解法雖然能夠提升空間利用性，但操作方式沒有改變。</p>
 
-    <img src="/portfolio/images/projects/bd-portal-demo-report/img-8.png" alt="梳理業務心智圖的共通點，定義出明確的系統規格，作為工程端建立資料庫架構的基石。" />
+    <img src="/portfolio_v1/images/projects/bd-portal-demo-report/img-8.png" alt="梳理業務心智圖的共通點，定義出明確的系統規格，作為工程端建立資料庫架構的基石。" />
 
-    <img src="/portfolio/images/projects/bd-portal-demo-report/img-9.png" alt="過於冗長的 BD Portal 後台初版表單 Wireframe" />
+    <img src="/portfolio_v1/images/projects/bd-portal-demo-report/img-9.png" alt="過於冗長的 BD Portal 後台初版表單 Wireframe" />
 
     <p>我給出的答案，是完全不同的方向：<strong>把 Form 表單的編輯模式，做成心智圖的操作邏輯。</strong></p>
 
     <p>透過 Vue.js 的動態控制，我實現了點擊「+」可以新增子節點欄位、點擊「-」可以刪除的互動方式，讓整張表單的操作體驗貼近業務原本熟悉的 Xmind，但填入的每一筆資料，都能被系統結構化地收回儲存。這個設計同時解決了技術限制與操作體驗兩個問題，也讓設計主管與大主管都說出：「從來沒想過 Form 表單可以做成這樣！」</p>
 
-    <img src="/portfolio/images/projects/bd-portal-demo-report/img-10.png" alt="BD Portal 後台表單，以心智圖節點結構呈現，每個層級可透過 +/- 按鈕動態新增或刪除欄位" />
+    <img src="/portfolio_v1/images/projects/bd-portal-demo-report/img-10.png" alt="BD Portal 後台表單，以心智圖節點結構呈現，每個層級可透過 +/- 按鈕動態新增或刪除欄位" />
 
     <h3>突發狀況：螢幕分享下的資訊安全問題</h3>
 
@@ -158,20 +158,20 @@ export const projects = [
 
     <p>最終的前台報告以 Dashboard 形式呈現，左側固定導覽列，右側主內容區依分頁切換，右欄常駐學生個人資訊與學習指標雷達圖，讓家長在任何頁面都能看到孩子的基本輪廓。</p>
 
-    <img src="/portfolio/images/projects/bd-portal-demo-report/img-11.png" alt="最終版 Dashboard — 心智圖表頁，主內容區呈現可縮放的互動式心智圖，右側常駐個人資訊與雷達圖" />
+    <img src="/portfolio_v1/images/projects/bd-portal-demo-report/img-11.png" alt="最終版 Dashboard — 心智圖表頁，主內容區呈現可縮放的互動式心智圖，右側常駐個人資訊與雷達圖" />
 
-    <img src="/portfolio/images/projects/bd-portal-demo-report/img-12.png" alt="最終版 Dashboard — 適性分析頁，呈現顧問師的發現與建議，分個人特質、時間運用、學習方式等維度" />
+    <img src="/portfolio_v1/images/projects/bd-portal-demo-report/img-12.png" alt="最終版 Dashboard — 適性分析頁，呈現顧問師的發現與建議，分個人特質、時間運用、學習方式等維度" />
 
-    <img src="/portfolio/images/projects/bd-portal-demo-report/img-13.png" alt="最終版 Dashboard — 體驗資訊頁，呈現試讀期間、試讀帳號、試讀密碼與立即體驗 CTA 按鈕" />
+    <img src="/portfolio_v1/images/projects/bd-portal-demo-report/img-13.png" alt="最終版 Dashboard — 體驗資訊頁，呈現試讀期間、試讀帳號、試讀密碼與立即體驗 CTA 按鈕" />
 
-    <img src="/portfolio/images/projects/bd-portal-demo-report/img-14.png" alt="最終版 Dashboard — 關於我們頁，呈現顧問師親筆信與產品官方連結、客服資訊" />
+    <img src="/portfolio_v1/images/projects/bd-portal-demo-report/img-14.png" alt="最終版 Dashboard — 關於我們頁，呈現顧問師親筆信與產品官方連結、客服資訊" />
 
     <h3>後台：BD Portal 心智圖式表單</h3>
 
     <p>後台表單以心智圖節點結構組織所有填寫欄位，業務可依照銷售進度彈性填入，所有欄位均取消必填限制。點擊「+」新增子節點、點擊「-」刪除，操作邏輯與 Xmind 一脈相承，但每一筆填入的資料都能被系統結構化地收回儲存。</p>
 
-    <video width="752" height="423" controls poster="/portfolio/images/projects/bd-portal-demo-report/img-15.png">
-      <source src="/portfolio/images/projects/bd-portal-demo-report/video-1.mp4" type="video/mp4">
+    <video width="752" height="423" controls poster="/portfolio_v1/images/projects/bd-portal-demo-report/img-15.png">
+      <source src="/portfolio_v1/images/projects/bd-portal-demo-report/video-1.mp4" type="video/mp4">
         您的瀏覽器不支援 HTML5 影片播放。(BD Portal 後台心智圖式表單完整畫面，以節點展開結構呈現所有填寫欄位。)
     </video>
 
@@ -300,7 +300,7 @@ export const projects = [
       </div>
     </div>
 
-    <img src="/portfolio/images/projects/ai-smartbag-learning-goal/img-1.png" alt="舊版學習計劃精準度不足，最細只能選到課層架構第七層「章節」；安排一個學習計劃需要超過七次點擊" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-goal/img-1.png" alt="舊版學習計劃精準度不足，最細只能選到課層架構第七層「章節」；安排一個學習計劃需要超過七次點擊" />
 
     <p>除此之外，新功能還面臨一個概念層次的根本挑戰：我們希望將學生的思維模式從「先因後果（我要補哪個章節）」翻轉為「倒果為因（我的目標是什麼，AI 幫我規劃）」。這不只是操作流程的改變，而是整個心智模型的重新建立。</p>
 
@@ -313,7 +313,7 @@ export const projects = [
 
     <p>擁有資料結構與資訊架構的背景，讓我在設計初期就能清楚掌握「系統能做什麼」的邊界，避免設計出無法實作的方案。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-learning-goal/img-2.png" alt="Wireframe - 學習目標首頁" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-goal/img-2.png" alt="Wireframe - 學習目標首頁" />
 
     <h3>洞察二：22 分鐘，讓計劃從紙上談兵變得可執行</h3>
 
@@ -325,11 +325,11 @@ export const projects = [
 
     <p>設計初期，我先完整梳理了功能邏輯較複雜的「進階設定」路徑——讓學生可以自由選擇任意知識點影片加入計劃。然而在第一次專案會議中，主管提出了一個關鍵提醒：「功能應該要讓使用者覺得好用，而不是越來越複雜。」</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-learning-goal/img-3.png" alt="Wireframe - 學習目標進階設定 Step 1" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-goal/img-3.png" alt="Wireframe - 學習目標進階設定 Step 1" />
 
-    <img src="/portfolio/images/projects/ai-smartbag-learning-goal/img-4.png" alt="Wireframe - 學習目標進階設定 Step 2" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-goal/img-4.png" alt="Wireframe - 學習目標進階設定 Step 2" />
 
-    <img src="/portfolio/images/projects/ai-smartbag-learning-goal/img-5.png" alt="Wireframe - 學習目標進階設定 Step 3" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-goal/img-5.png" alt="Wireframe - 學習目標進階設定 Step 3" />
 
     <p>當下我感到有些挫折，但在重新梳理思路後，我意識到這個順序其實有其必要性：<strong>必須先把最複雜的邏輯搞清楚，才能知道哪些可以被簡化、哪些是不可或缺的核心</strong>。這個反思讓我更有把握地設計出「三步驟快速建立」路徑，並讓兩條路徑各自服務不同的使用者類型：</p>
 
@@ -351,27 +351,27 @@ export const projects = [
 
     <p>學生設定每週哪幾天可以讀書、每次讀書多久，系統即時計算每週學習總時數，並對應顯示四種「角色屬性」：<strong>佛系學生、勤奮學子、資優菁英、天才學霸</strong>。這個設計除了讓計劃安排有所依據，也透過角色標籤帶來被動激勵效果，讓學生意識到自己投入的程度，進而產生想要更努力的動力。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-learning-goal/img-6.png" alt="快速建立 (主路徑) - Step 1. 學習步調選擇畫面，包含設定每週哪幾天可以讀書、每次讀書多久" />
-    <img src="/portfolio/images/projects/ai-smartbag-learning-goal/img-7.png" alt="四種角色屬性：佛系學生、勤奮學子、資優菁英、天才學霸" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-goal/img-6.png" alt="快速建立 (主路徑) - Step 1. 學習步調選擇畫面，包含設定每週哪幾天可以讀書、每次讀書多久" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-goal/img-7.png" alt="四種角色屬性：佛系學生、勤奮學子、資優菁英、天才學霸" />
 
     <h3>步驟二：學習目標選擇</h3>
 
     <p>對應課層架構第二層「領域」，同時也對應學生的購買授權範圍，僅顯示已購買的選項。為了讓選擇更貼近學生的真實學習動機，我將生硬的產品名稱重新以文案包裝，例如將「108 課綱全科」包裝為「穩健札實的基礎學程」、「會考 A++ 追分計劃」包裝為「全局掌握的大考戰略」，讓選項從系統語言轉化為學生語言。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-learning-goal/img-8.png" alt="快速建立 (主路徑) - Step 2. 學習目標選擇畫面，含文案包裝的五種領域選項" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-goal/img-8.png" alt="快速建立 (主路徑) - Step 2. 學習目標選擇畫面，含文案包裝的五種領域選項" />
 
     <h3>步驟三：學習科目選擇</h3>
 
     <p>同樣依授權範圍動態顯示可選科目，學生可複選，畫面設計簡潔清晰，降低選擇負擔。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-learning-goal/img-9.png" alt="Step 3. 學習科目選擇畫面" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-goal/img-9.png" alt="Step 3. 學習科目選擇畫面" />
 
     <h3>計劃預覽：日曆模式與週曆模式</h3>
 
     <p>三步驟完成後，AI 自動生成學習計劃，學生可切換「只看單日」（週曆模式，顯示每日的知識點影片列表）或「一次看全部」（月曆模式，鳥瞰整體計劃分佈）。計劃上方同時顯示「已安排時數」與「本日預計學習時數」，讓執行狀況一目了然。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-learning-goal/img-10.png" alt="計劃預覽 - 週曆模式 (一次看一天)" />
-    <img src="/portfolio/images/projects/ai-smartbag-learning-goal/img-11.png" alt="計劃預覽 - 月曆模式 (一次看全部)" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-goal/img-10.png" alt="計劃預覽 - 週曆模式 (一次看一天)" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-goal/img-11.png" alt="計劃預覽 - 月曆模式 (一次看全部)" />
 
     <!-- 最終成果 -->
     <h2>最終成果</h2>
@@ -461,9 +461,9 @@ export const projects = [
 
     <p>然而，這個功能在我接手之前，已經由 PM 與設計主管共同規劃出第一版，並被大主管否定。被打槍的原因一針見血：<strong>「日、週、月三份報告，本質上只是同一套數據在不同時間維度的重複呈現」</strong>，看起來像三份一樣的報告換了個日期範圍，既不能體現 AI 的差異化價值，也無法真正幫助家長理解孩子的學習狀況。</p>
 
-    <p>由於我在前一個專案「<strong><a href="https://mudi0710.github.io/portfolio/#/projects/ai-smartbag-learning-goal" target="_blank">學習目標</a></strong>」中的表現受到肯定，PM 與設計主管將這個棘手的案子交給我重新接手。</p>
+    <p>由於我在前一個專案「<strong><a href="https://mudi0710.github.io/portfolio_v1/#/projects/ai-smartbag-learning-goal" target="_blank">學習目標</a></strong>」中的表現受到肯定，PM 與設計主管將這個棘手的案子交給我重新接手。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-learning-report/img-1.png" alt="第一版學習報告 UI，三個維度呈現相似的數據結構" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-report/img-1.png" alt="第一版學習報告 UI，三個維度呈現相似的數據結構" />
 
     <!-- 設計過程 -->
     <h2>設計過程</h2>
@@ -480,7 +480,7 @@ export const projects = [
 
     <p>與此同時，我<strong>主動與研發工程師逐一確認現有 API 能提供哪些數據，以及哪些交叉運算在技術上可行</strong>。由於我有前端開發的學習背景，我能夠理解數據結構與 API 的運作邏輯，讓我在設計早期就清楚知道「哪些想法做得到、哪些需要協調」，而不是設計出無法實作的方案。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-learning-report/img-2.png" alt="FigJam 數據面向梳理表格，橫軸為日週月維度，縱軸為各數據類型" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-report/img-2.png" alt="FigJam 數據面向梳理表格，橫軸為日週月維度，縱軸為各數據類型" />
 
     <h3>關鍵框架：三種維度，三種敘事邏輯</h3>
 
@@ -506,25 +506,25 @@ export const projects = [
 
     <h3>日報告：從兩區塊合一，解決資訊重複問題</h3>
 
-    <p>初版 wireframe 將「課程觀看」與「答題數據（隨堂練習 + 考卷測驗）」分成兩個獨立區塊。但我意識到，在「<strong><a href="https://mudi0710.github.io/portfolio/#/projects/ai-smartbag-learning-goal" target="_blank">學習目標</a></strong>」的計劃邏輯中，每一個學習單元本來就包含知識點影片、隨堂練習與考卷測驗，它們對應的是同一個學習範圍。若分開呈現，家長會看到同樣的課程名稱出現兩次，反而造成困惑。</p>
+    <p>初版 wireframe 將「課程觀看」與「答題數據（隨堂練習 + 考卷測驗）」分成兩個獨立區塊。但我意識到，在「<strong><a href="https://mudi0710.github.io/portfolio_v1/#/projects/ai-smartbag-learning-goal" target="_blank">學習目標</a></strong>」的計劃邏輯中，每一個學習單元本來就包含知識點影片、隨堂練習與考卷測驗，它們對應的是同一個學習範圍。若分開呈現，家長會看到同樣的課程名稱出現兩次，反而造成困惑。</p>
 
     <p>因此我在 Final 版中將其合而為一，以學習單元為主軸，整合所有對應數據。</p>
 
     <p>日報告同時引入四種學習標籤：延遲學習、當日學習、提前學習、額外學習，讓家長一眼就能理解孩子的學習行為是否符合計劃節奏。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-learning-report/img-3.png" alt="日報告最終 Wireframe，學習單元整合觀看數據與測驗數據，並標示四種學習標籤" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-report/img-3.png" alt="日報告最終 Wireframe，學習單元整合觀看數據與測驗數據，並標示四種學習標籤" />
 
     <h3>週報告：以角色屬性為洞察增添溫度</h3>
 
-    <p>原本規劃的「黃金學習時間」圖表（折線圖 + 瀑布圖），在與研發團隊協調後因開發複雜度過高而暫緩。為了不讓週報告的洞察深度因此打折，我引入了「<strong><a href="https://mudi0710.github.io/portfolio/#/projects/ai-smartbag-learning-goal" target="_blank">學習目標</a></strong>」功能中已有的角色屬性系統——<strong>佛系學生、勤奮學子、資優菁英、天才學霸</strong>——依據孩子本週的學習投入程度自動對應，為冰冷的時數數據加入一層有趣的人格標籤，讓家長在看數字的同時，也能感受到孩子學習狀態的整體氛圍。</p>
+    <p>原本規劃的「黃金學習時間」圖表（折線圖 + 瀑布圖），在與研發團隊協調後因開發複雜度過高而暫緩。為了不讓週報告的洞察深度因此打折，我引入了「<strong><a href="https://mudi0710.github.io/portfolio_v1/#/projects/ai-smartbag-learning-goal" target="_blank">學習目標</a></strong>」功能中已有的角色屬性系統——<strong>佛系學生、勤奮學子、資優菁英、天才學霸</strong>——依據孩子本週的學習投入程度自動對應，為冰冷的時數數據加入一層有趣的人格標籤，讓家長在看數字的同時，也能感受到孩子學習狀態的整體氛圍。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-learning-report/img-4.png" alt="週報告最終 Wireframe，包含學習計劃達成率、全國比較圖、學習內容細項與角色屬性標籤" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-report/img-4.png" alt="週報告最終 Wireframe，包含學習計劃達成率、全國比較圖、學習內容細項與角色屬性標籤" />
 
     <h3>月報告：多維圖表呈現成長軌跡</h3>
 
     <p>月報告以「孩子這個月有沒有真正成長」為敘事核心，整合了環形圖、雷達圖、圓餅圖與堆疊長條圖等多種視覺化形式，讓各面向的數據以最直觀的方式被理解。每個圖表背後都有對應的洞察文字，說明數據代表的意義，而非讓家長自己解讀數字。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-learning-report/img-5.png" alt="月報告最終 Wireframe，包含學習目標達成率、PR 值、科目雷達圖、知識點圓餅圖與考卷成長分析" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-report/img-5.png" alt="月報告最終 Wireframe，包含學習目標達成率、PR 值、科目雷達圖、知識點圓餅圖與考卷成長分析" />
 
     <h3>帶有溫度的建議文案</h3>
 
@@ -552,7 +552,7 @@ export const projects = [
       </div>
     </div>
 
-    <img src="/portfolio/images/projects/ai-smartbag-learning-report/img-6.png" alt="「學習報告」在產品上線後被列為主要行銷功能，展示了 AI 智能書包相較於傳統補教平台的差異化價值。" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-learning-report/img-6.png" alt="「學習報告」在產品上線後被列為主要行銷功能，展示了 AI 智能書包相較於傳統補教平台的差異化價值。" />
 
     <!-- 影響力 -->
     <h2>影響力</h2>
@@ -635,7 +635,7 @@ export const projects = [
 
     <p>這個專案從 0 到 1，以 App 內嵌網頁的形式呈現，主要服務對象是 K12 學生。由於 PM 工作量已滿，設計部連續第三次承接了跨 PM 的全權主導任務，而這次是我第一次同時擔任設計規劃者與協作指揮者的雙重角色——除了獨立完成所有 UX 研究與切版實作，也負責帶領另一位設計師 Aimee 分工完成視覺美術設定。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-edu-psych-quiz/img-1.png" alt="教育心理測驗中間頁，主視覺為宇宙星球的登錄場景，畫面中間富有故事文案以及「繼續前進」按鈕" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-edu-psych-quiz/img-1.png" alt="教育心理測驗中間頁，主視覺為宇宙星球的登錄場景，畫面中間富有故事文案以及「繼續前進」按鈕" />
 
     <!-- 設計過程 -->
     <h2>設計過程</h2>
@@ -669,7 +669,7 @@ export const projects = [
 
     <p>若將 Kolb（4 種人格）× Felder-Soloman（16 種特質組合）加以整合，測驗結果的理論上限可達 <strong>64 種</strong>——完全超出主管的期待，且每一種結果都有紮實的學術根據支撐。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-edu-psych-quiz/img-2.png" alt="Kolb 與 Felder-Soloman 理論對照圖，展示四大學習偏好面向與人格類型的對應關係" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-edu-psych-quiz/img-2.png" alt="Kolb 與 Felder-Soloman 理論對照圖，展示四大學習偏好面向與人格類型的對應關係" />
 
     <!-- FigJam -->
     <p>你可以探索當時的研究白板：</p>
@@ -714,7 +714,7 @@ export const projects = [
 
     <p>測驗入口的主視覺以「曼特宇宙」為主題，呈現充滿星球與星雲的深宇宙場景，標題「探索我的學習超能力」以大字呈現，底部的「即刻啟程」按鈕是整個頁面最耗費工程量的細節：我將按鈕拆解為多層圖層疊合，運用 GSAP 動態特效套件，搭配 CSS <code>Filter</code> 與自定義 <code>Animation</code>，做出旋轉光環、發光脈衝等複合動態效果，讓學生在點擊之前就能感受到這個測驗的沉浸感。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-edu-psych-quiz/img-3.png" alt="教育心理測驗前導頁封面，主視覺為宇宙星球場景，標題「探索我的學習超能力」，底部有動態「即刻啟程」按鈕" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-edu-psych-quiz/img-3.png" alt="教育心理測驗前導頁封面，主視覺為宇宙星球場景，標題「探索我的學習超能力」，底部有動態「即刻啟程」按鈕" />
 
     <h3>測驗結果頁：64 種結果，每一種都有靈魂</h3>
 
@@ -722,7 +722,7 @@ export const projects = [
 
     <p>四種 Kolb 人格角色各自配有一張以機械手為造型基底的賽博龐克風格插圖，這是 Aimee 在角色形象卡關許久後想到的解法。由於 App IP「曼特」本身是非人物形象，以「手」作為角色基底，既呼應了 IP 精神，又能快速延伸出四種截然不同的角色個性，大幅降低了插圖的製作成本與時程壓力。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-edu-psych-quiz/img-4.png" alt="測驗結果頁 App 截圖，呈現「時空穿越者」角色卡，包含人格描述、雷達圖與學習建議" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-edu-psych-quiz/img-4.png" alt="測驗結果頁 App 截圖，呈現「時空穿越者」角色卡，包含人格描述、雷達圖與學習建議" />
 
     <div class="pd-callout">
       <div class="pd-callout__item">
@@ -743,7 +743,7 @@ export const projects = [
       </div>
     </div>
 
-    <img src="/portfolio/images/projects/ai-smartbag-edu-psych-quiz/img-5.png" alt="四種學習人格角色卡並排，從左至右：引力操控師、賽博策畫師、時空穿越者、機械建構者，各自配有賽博龐克風格機械手插圖" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-edu-psych-quiz/img-5.png" alt="四種學習人格角色卡並排，從左至右：引力操控師、賽博策畫師、時空穿越者、機械建構者，各自配有賽博龐克風格機械手插圖" />
 
     <!-- 最終成果 -->
     <h2>最終成果</h2>
@@ -854,7 +854,7 @@ export const projects = [
 
     <p>在這樣的狀況下，處理一份 EPUB 需要耗費我們 1 到 1.5 天的時間。換算下來，2,130 份教材若全靠人工逐一處理，不僅時程根本來不及，雙人作業也會因各自對排版的判斷略有差異，導致最終成果難以維持視覺一致性。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-epub-production/img-1.png" alt="原始 EPUB 拆解後的 HTML 結構，充斥中文命名的 CSS 選擇器與亂碼" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-epub-production/img-1.png" alt="原始 EPUB 拆解後的 HTML 結構，充斥中文命名的 CSS 選擇器與亂碼" />
 
     <!-- 設計過程 -->
     <h2>設計過程</h2>
@@ -888,7 +888,7 @@ export const projects = [
       </div>
     </div>
 
-    <img src="/portfolio/images/projects/ai-smartbag-epub-production/img-2.png" alt="原始 EPUB 拆解後的 HTML 結構，充斥中文命名的 CSS 選擇器與亂碼" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-epub-production/img-2.png" alt="原始 EPUB 拆解後的 HTML 結構，充斥中文命名的 CSS 選擇器與亂碼" />
 
     <h3>關鍵突破：Excel 半自動化轉譯工具</h3>
 
@@ -898,7 +898,7 @@ export const projects = [
 
     <p>這套工具同時解決了原本讓我們最頭痛的亂碼有序清單問題：題目與選項的結構邏輯，也全部被納入工具的自動組合範疇內。</p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-epub-production/img-3.png" alt="Excel 半自動化轉譯工具介面，左側為純文字輸入欄位，右側即時產出對應的 HTML 語法" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-epub-production/img-3.png" alt="Excel 半自動化轉譯工具介面，左側為純文字輸入欄位，右側即時產出對應的 HTML 語法" />
 
     <p>一週後，工具完成了，設計主管看到成果的當下說：「天啊！我看到希望了！」</p>
 
@@ -912,7 +912,7 @@ export const projects = [
  
     <p><strong>最終招募到兩位工讀生，每位平均每天可完成 4 至 5 份 EPUB，相較於過去手動處理的效率提升了 4 到 5 倍以上。</strong></p>
 
-    <img src="/portfolio/images/projects/ai-smartbag-epub-production/img-4.png" alt="Notion 操作指引文件，供工讀生參照使用 Excel 工具與 VS Code 完成 EPUB 製作" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-epub-production/img-4.png" alt="Notion 操作指引文件，供工讀生參照使用 Excel 工具與 VS Code 完成 EPUB 製作" />
 
     <!-- 最終成果 -->
     <h2>最終成果</h2>
@@ -934,7 +934,7 @@ export const projects = [
       </div>
     </div>
 
-    <img src="/portfolio/images/projects/ai-smartbag-epub-production/img-5.png" alt="流式 EPUB 實際閱讀介面，具有豐富圖片與表格，排版難度遠高於文學類出版物" />
+    <img src="/portfolio_v1/images/projects/ai-smartbag-epub-production/img-5.png" alt="流式 EPUB 實際閱讀介面，具有豐富圖片與表格，排版難度遠高於文學類出版物" />
 
     <!-- 影響力 -->
     <h2>影響力</h2>
@@ -1071,7 +1071,7 @@ export const projects = [
 
     <p>這個設定意味著，<strong>我必須在整部影片中同時控制 6 個視覺形象高度具體的角色，且涵蓋真人與動畫兩種截然不同的視覺風格</strong>。而這 5 個 IP 人物最原始的素材，僅有一張 2D 向量美術圖，沒有任何多角度設定。</p>
 
-    <img src="/portfolio/images/projects/elementary-king-ai-mv/img-1.png" alt="這 5 個 IP 人物最原始的素材，僅有一張 2D 向量美術圖，沒有任何多角度設定" />
+    <img src="/portfolio_v1/images/projects/elementary-king-ai-mv/img-1.png" alt="這 5 個 IP 人物最原始的素材，僅有一張 2D 向量美術圖，沒有任何多角度設定" />
 
     <p>為了從根本解決角色一致性問題，我參照傳統動畫製作中「角色設定表」的概念，系統性地建立了完整的角色視覺資料庫：</p>
 
@@ -1081,21 +1081,21 @@ export const projects = [
         <p>利用 Nano Banana Pro 將 5 位 2D IP 生成偽 3D 多角度視圖，涵蓋正面、側面、背面、45 度正側面、45 度背側面、仰角、俯角等完整角度。</p>
       </div>
 
-      <img src="/portfolio/images/projects/elementary-king-ai-mv/img-2.png" alt="利用 Nano Banana Pro 將 5 位 2D IP 生成偽 3D 多角度視圖，涵蓋正面、側面、背面、45 度正側面、45 度背側面、仰角、俯角等完整角度" />
+      <img src="/portfolio_v1/images/projects/elementary-king-ai-mv/img-2.png" alt="利用 Nano Banana Pro 將 5 位 2D IP 生成偽 3D 多角度視圖，涵蓋正面、側面、背面、45 度正側面、45 度背側面、仰角、俯角等完整角度" />
 
       <div class="pd-callout__item">
         <span class="pd-callout__title">步驟二：真人小女孩形象建立</span>
         <p>生成「視覺年齡 10 歲的台灣小女孩」形象，逐步修調細節至滿意，再將真人版本轉換為 3D 動畫風格，確保兩種形象之間的視覺連貫性。</p>
       </div>
 
-      <img src="/portfolio/images/projects/elementary-king-ai-mv/img-3.png" alt="生成「視覺年齡 10 歲的台灣小女孩」形象，逐步修調細節至滿意，再將真人版本轉換為 3D 動畫風格，確保兩種形象之間的視覺連貫性。" />
+      <img src="/portfolio_v1/images/projects/elementary-king-ai-mv/img-3.png" alt="生成「視覺年齡 10 歲的台灣小女孩」形象，逐步修調細節至滿意，再將真人版本轉換為 3D 動畫風格，確保兩種形象之間的視覺連貫性。" />
 
       <div class="pd-callout__item">
         <span class="pd-callout__title">步驟三：豐富表情素材庫</span>
         <p>針對所有角色生成至少 12 種表情變化，包含喜、怒、哀、樂等完整情緒光譜，建立後續影片合成所需的完整素材庫。</p>
       </div>
 
-      <img src="/portfolio/images/projects/elementary-king-ai-mv/img-4.png" alt="針對所有角色生成至少 12 種表情變化，包含喜、怒、哀、樂等完整情緒光譜，建立後續影片合成所需的完整素材庫。" />
+      <img src="/portfolio_v1/images/projects/elementary-king-ai-mv/img-4.png" alt="針對所有角色生成至少 12 種表情變化，包含喜、怒、哀、樂等完整情緒光譜，建立後續影片合成所需的完整素材庫。" />
 
     </div>
 
@@ -1136,13 +1136,13 @@ export const projects = [
 
     <p>這套流程最終產出了約 1,000 張分鏡圖，並千挑萬選其中 99 張作為後續影片生成的視覺底稿。</p>
 
-    <img src="/portfolio/images/projects/elementary-king-ai-mv/img-5.png" alt="千挑萬選的 99 張分鏡圖與備用分鏡稿。" />
+    <img src="/portfolio_v1/images/projects/elementary-king-ai-mv/img-5.png" alt="千挑萬選的 99 張分鏡圖與備用分鏡稿。" />
 
     <h3>影片生成、音樂製作與最終剪輯</h3>
 
     <p>以 Kling O1 模型將靜態分鏡圖轉換為動態影像，共生成 131 支短影片素材，篩選後保留 24 支精華片段進入最終剪輯。歌詞部分以 ChatGPT 輔助撰寫，音樂則透過 Suno 生成，並與影片進行節奏對位、轉場處理與調色，最終輸出約 2 分鐘的完整動畫 MV。</p>
 
-    <img src="/portfolio/images/projects/elementary-king-ai-mv/img-6.png" alt="Kling O1 生成的動態短影片素材。" />
+    <img src="/portfolio_v1/images/projects/elementary-king-ai-mv/img-6.png" alt="Kling O1 生成的動態短影片素材。" />
 
     <p>專案執行過程中，PM Jenny 協助處理部分分鏡的初稿與詞曲發想；設計師 Aimee 負責製作 MV 封面圖。最終影片的核心視覺內容均由我統一把關與重製，以確保整體風格與品質的一致性。</p>
 
@@ -1297,7 +1297,7 @@ export const projects = [
       </div>
     </div>
 
-    <img src="/portfolio/images/projects/osm-rwd-scss-function/img-1.png" alt="橙色的科學書屋 Hero 區塊，不同斷點的 UI 設計稿，大量手繪插畫元素以 absolute 定位散落在主視覺各處" />
+    <img src="/portfolio_v1/images/projects/osm-rwd-scss-function/img-1.png" alt="橙色的科學書屋 Hero 區塊，不同斷點的 UI 設計稿，大量手繪插畫元素以 absolute 定位散落在主視覺各處" />
 
     <!-- 設計過程 -->
     <h2>設計過程</h2>
@@ -1308,9 +1308,9 @@ export const projects = [
 
     <p>我憑藉過去學習前端的記憶，想到可以在 Vue.js 模板中使用 JavaScript 的 <code>.split()</code> 方法，將字串切割後重組為陣列，再用 <code>&lt;ul&gt;</code> 和 <code>&lt;li&gt;</code> 跑迴圈渲染。藉助 Google 查找與 ChatGPT 輔助驗證，最終成功讓課表的排版呈現符合設計稿的樣式，在不更動資料庫結構的情況下，徹底解決了爆版問題。</p>
 
-    <img src="/portfolio/images/projects/osm-rwd-scss-function/img-2.png" alt="課表章節排版 Before / After 對比，左側為字串爆版狀態，右側為 .split() 重組後的正確排版" />
+    <img src="/portfolio_v1/images/projects/osm-rwd-scss-function/img-2.png" alt="課表章節排版 Before / After 對比，左側為字串爆版狀態，右側為 .split() 重組後的正確排版" />
 
-    <img src="/portfolio/images/projects/osm-rwd-scss-function/img-3.png" alt="使用 JavaScript 的 .split() 函式將字串轉為陣列" />
+    <img src="/portfolio_v1/images/projects/osm-rwd-scss-function/img-3.png" alt="使用 JavaScript 的 .split() 函式將字串轉為陣列" />
 
     <h3>洞察二：在時間壓力下，逼出更聰明的解法</h3>
 
@@ -1329,9 +1329,9 @@ export const projects = [
       </div>
     </div>
 
-    <img src="/portfolio/images/projects/osm-rwd-scss-function/img-4.png" alt="rwdSize 核心公式邏輯" />
+    <img src="/portfolio_v1/images/projects/osm-rwd-scss-function/img-4.png" alt="rwdSize 核心公式邏輯" />
 
-    <img src="/portfolio/images/projects/osm-rwd-scss-function/img-5.png" alt="rwdSize SCSS @function 完整程式碼，包含 px 與 % 單位的雙模式支援" />
+    <img src="/portfolio_v1/images/projects/osm-rwd-scss-function/img-5.png" alt="rwdSize SCSS @function 完整程式碼，包含 px 與 % 單位的雙模式支援" />
 
     <p>有了這套 function，每個浮動元素的所有斷點定位，只需要在設計稿上量出兩個尺寸、填入函式，就能讓元素在螢幕縮放時保持與設計稿幾乎一致的相對位置與比例。原本需要近一小時的工作，縮短至 5 分鐘以內。</p>
 

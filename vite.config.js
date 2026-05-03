@@ -5,7 +5,7 @@ import vueDevTools from 'vite-plugin-vue-inspector'
 
 export default defineConfig({
   plugins: [vue(), vueDevTools()],
-  base: '/portfolio/',
+  base: '/portfolio_v1/',
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),
